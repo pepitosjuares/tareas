@@ -1,3 +1,3 @@
 # tareas
 practica 18
-# piton 97
+# ![pepitosjuares](/img/01.png)
