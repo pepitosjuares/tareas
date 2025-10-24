@@ -7,33 +7,36 @@ practica 18
 + Función: Conexión de periféricos como teclado y ratón.
 ## Descripción:
 + USB: Universal Serial Bus, permite conectar dispositivos como memorias, impresoras, etc.
-
-PS/2: Conector antiguo para teclado (morado) o ratón (verde).
++ PS/2: Conector antiguo para teclado (morado) o ratón (verde).
 
 ![pepitosjuares](/img/conector01.png)
 
-# 2 Botón de reinicio o Clear CMOS
-+ Usualmente un pequeño botón que permite reiniciar la BIOS o restablecer la configuración de fábrica de la placa base.
+# 2 SPDIF (óptico o coaxial)
++ Función: Salida de audio digital.
++ Uso: Se conecta a sistemas de sonido o amplificadores para audio de alta calidad.
 
 ![pepitosjuares](/img/conector02.png)
 
-# 3 HDMI
-+ Conector para transmitir video y audio digital a monitores, televisores o proyectores. Soporta alta definición y audio multicanal.
+# 3 DisplayPort
++ Función: Salida de video digital.
++ Uso: Conecta el monitor a la PC con alta resolución y frecuencia de actualización.
 
 ![pepitosjuares](/img/conector3.png)
 
-# 4 DisplayPort
-+ Similar al HDMI, transmite video y audio digital, soportando resoluciones más altas y frecuencias de actualización elevadas.
+# 4 HDMI (High Definition Multimedia Interface)
++ Función: Transmite video y audio digital en un solo cable.
++ Uso: Conecta monitores, televisores o proyectores.
   
 ![pepitosjuares](/img/conector4.png)
 
-# 5 VGA (D-SUB)
-+ Conector analógico de video, usado en monitores antiguos. No transmite audio.
+# 5. Puerto Paralelo (LPT)
++ Función: Conexión antigua para impresoras o equipos industriales.
++ Estado actual: Obsoleto, reemplazado peeeeeeeeEEsdfàpskfg`k
 
 ![pepitosjuares](/img/conector5.png)
 
 # 6 DVI
-+ Conector digital de video, usado en monitores y tarjetas gráficas. Algunos tipos (DVI-I) también transmiten señal analógica.
++ p
 
 ![pepitosjuares](/img/conector6.png)
 
