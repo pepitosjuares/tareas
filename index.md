@@ -1,1 +1,65 @@
+# tareas
+practica 18
+
+![pepitosjuares](/img/conectores.jpg)
+
+# 1 USB Tipo A y PS/2
++ Función: Conexión de periféricos como teclado y ratón.
+## Descripción:
+++ USB: Universal Serial Bus, permite conectar dispositivos como memorias, impresoras, etc.
+
+PS/2: Conector antiguo para teclado (morado) o ratón (verde).
+
+![pepitosjuares](/img/conector01.png)
+
+# 2 Botón de reinicio o Clear CMOS
++ Usualmente un pequeño botón que permite reiniciar la BIOS o restablecer la configuración de fábrica de la placa base.
+
+![pepitosjuares](/img/conector02.png)
+
+# 3 HDMI
++ Conector para transmitir video y audio digital a monitores, televisores o proyectores. Soporta alta definición y audio multicanal.
+
+![pepitosjuares](/img/conector3.png)
+
+# 4 DisplayPort
++ Similar al HDMI, transmite video y audio digital, soportando resoluciones más altas y frecuencias de actualización elevadas.
+  
+![pepitosjuares](/img/conector4.png)
+
+# 5 VGA (D-SUB)
++ Conector analógico de video, usado en monitores antiguos. No transmite audio.
+
+![pepitosjuares](/img/conector5.png)
+
+# 6 DVI
++ Conector digital de video, usado en monitores y tarjetas gráficas. Algunos tipos (DVI-I) también transmiten señal analógica.
+
+![pepitosjuares](/img/conector6.png)
+
+# 7 Serial (COM / RS-232)
++ Conector para dispositivos antiguos como módems, algunos equipos industriales o sistemas de control. Transmite datos en serie.
+
+![pepitosjuares](/img/conector7.png)
+
+# 8 USB Tipo C
++ Conector reversible que transmite datos, video, audio y energía. Cada vez más común en dispositivos modernos.
+
+![pepitosjuares](/img/conector8.png)
+
+# 9 USB 3.0 Tipo A
++ Conector azul que indica compatibilidad con USB 3.0, ofreciendo velocidades más altas que USB 2.0.
+
+![pepitosjuares](/img/conector9.png)
+
+# 10 Ethernet (RJ-45)
++ Conector de red cableada, usado para conectarse a internet o redes locales. Soporta velocidades como 1 Gbps o más.
+
+![pepitosjuares](/img/conector10.png)
+
+# 11 Audio (Jack de 3.5 mm y S/PDIF óptico)
++ Jacks de colores para salida de audio y micrófono (verde: altavoces, rosa: micrófono, azul: entrada de línea, negro/naranja: salidas adicionales multicanal).
++ Conector óptico (TOSLINK) para audio digital de alta calidad.
+
+![pepitosjuares](/img/conector11.png)
 
