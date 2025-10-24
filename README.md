@@ -5,7 +5,6 @@ practica 18
 
 # 1 USB Tipo A y PS/2
 + Función: Conexión de periféricos como teclado y ratón.
-## Descripción:
 + USB: Universal Serial Bus, permite conectar dispositivos como memorias, impresoras, etc.
 + PS/2: Conector antiguo para teclado (morado) o ratón (verde).
 
@@ -31,37 +30,52 @@ practica 18
 
 # 5. Puerto Paralelo (LPT)
 + Función: Conexión antigua para impresoras o equipos industriales.
-+ Estado actual: Obsoleto, reemplazado peeeeeeeeEEsdfàpskfg`k
++ Estado actual: Obsoleto, reemplazado por USB.
 
 ![pepitosjuares](/img/conector5.png)
 
 # 6 DVI
-+ p
++ Función: Salida de video digital.
++ Uso: Conecta monitores digitales (algunos soportan también señal analógica).
 
 ![pepitosjuares](/img/conector6.png)
 
-# 7 Serial (COM / RS-232)
-+ Conector para dispositivos antiguos como módems, algunos equipos industriales o sistemas de control. Transmite datos en serie.
+# 7 Puerto Serie (COM)
++ Función: Comunicación serie con dispositivos antiguos o industriales (como routers, PLC, etc.).
++ Tipo de conector: DB9.
 
 ![pepitosjuares](/img/conector7.png)
 
-# 8 USB Tipo C
-+ Conector reversible que transmite datos, video, audio y energía. Cada vez más común en dispositivos modernos.
+# 8 VGA (Video Graphics Array)
++ Función: Salida de video analógico.
++ Uso: Conecta monitores CRT o algunos LCD más antiguos.
++ Estado actual: En desuso, reemplazado por HDMI/DisplayPort.
 
 ![pepitosjuares](/img/conector8.png)
 
 # 9 USB 3.0 Tipo A
-+ Conector azul que indica compatibilidad con USB 3.0, ofreciendo velocidades más altas que USB 2.0.
++ Función: Conexión de dispositivos USB.
++ Colores:
+  + Rojo: USB 3.2 Gen 2 (alta velocidad).
+  + Azul: USB 3.0 (SuperSpeed).
 
 ![pepitosjuares](/img/conector9.png)
 
 # 10 Ethernet (RJ-45)
-+ Conector de red cableada, usado para conectarse a internet o redes locales. Soporta velocidades como 1 Gbps o más.
++ Función: Conexión de red cableada (LAN).
++ Velocidades típicas: 100 Mbps, 1 Gbps o 10 Gbps según la placa.
 
 ![pepitosjuares](/img/conector10.png)
 
 # 11 Audio (Jack de 3.5 mm y S/PDIF óptico)
-+ Jacks de colores para salida de audio y micrófono (verde: altavoces, rosa: micrófono, azul: entrada de línea, negro/naranja: salidas adicionales multicanal).
-+ Conector óptico (TOSLINK) para audio digital de alta calidad.
+11. Conectores de Audio (Jack 3.5 mm)
++ Función: Entrada y salida de audio analógico.
+
++ Colores comunes:
+  +Verde: salida de altavoces/frontales.
+  +Azul: entrada de línea.
+  +Rosa: micrófono.
+  +Naranja/Negro/Gris: canales adicionales (5.1 o 7.1).
+  +También puede incluir salida óptica S/PDIF (TOSLINK).
 
 ![pepitosjuares](/img/conector11.png)
