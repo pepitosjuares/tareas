@@ -3,63 +3,78 @@ practica 18
 
 ![pepitosjuares](/img/conectores.jpg)
 
-# 1 USB Tipo A y PS/2
+# 1 USB Tipo A y PS/2(1987) y (1996)
 + Función: Conexión de periféricos como teclado y ratón.
-## Descripción:
-++ USB: Universal Serial Bus, permite conectar dispositivos como memorias, impresoras, etc.
-
-PS/2: Conector antiguo para teclado (morado) o ratón (verde).
++ USB: Universal Serial Bus, permite conectar dispositivos como memorias, impresoras, etc.
++ PS/2: Conector antiguo para teclado (morado) o ratón (verde).
 
 ![pepitosjuares](/img/conector01.png)
 
-# 2 Botón de reinicio o Clear CMOS
-+ Usualmente un pequeño botón que permite reiniciar la BIOS o restablecer la configuración de fábrica de la placa base.
+# 2 SPDIF (óptico o coaxial)(1980s)
++ Función: Salida de audio digital.
++ Uso: Se conecta a sistemas de sonido o amplificadores para audio de alta calidad.
 
 ![pepitosjuares](/img/conector02.png)
 
-# 3 HDMI
-+ Conector para transmitir video y audio digital a monitores, televisores o proyectores. Soporta alta definición y audio multicanal.
+# 3 DisplayPort(2006)
++ Función: Salida de video digital.
++ Uso: Conecta el monitor a la PC con alta resolución y frecuencia de actualización.
 
 ![pepitosjuares](/img/conector3.png)
 
-# 4 DisplayPort
-+ Similar al HDMI, transmite video y audio digital, soportando resoluciones más altas y frecuencias de actualización elevadas.
+# 4 HDMI (High Definition Multimedia Interface)(2002)
++ Función: Transmite video y audio digital en un solo cable.
++ Uso: Conecta monitores, televisores o proyectores.
   
 ![pepitosjuares](/img/conector4.png)
 
-# 5 VGA (D-SUB)
-+ Conector analógico de video, usado en monitores antiguos. No transmite audio.
+# 5. Puerto Paralelo (LPT)(1970)
++ Función: Conexión antigua para impresoras o equipos industriales.
++ Estado actual: Obsoleto, reemplazado por USB.
 
 ![pepitosjuares](/img/conector5.png)
 
-# 6 DVI
-+ Conector digital de video, usado en monitores y tarjetas gráficas. Algunos tipos (DVI-I) también transmiten señal analógica.
+# 6 DVI (1999)
++ Función: Salida de video digital.
++ Uso: Conecta monitores digitales (algunos soportan también señal analógica).
 
 ![pepitosjuares](/img/conector6.png)
 
-# 7 Serial (COM / RS-232)
-+ Conector para dispositivos antiguos como módems, algunos equipos industriales o sistemas de control. Transmite datos en serie.
+# 7 Puerto Serie (COM) (1960)
++ Función: Comunicación serie con dispositivos antiguos o industriales (como routers, PLC, etc.).
++ Tipo de conector: DB9.
 
 ![pepitosjuares](/img/conector7.png)
 
-# 8 USB Tipo C
-+ Conector reversible que transmite datos, video, audio y energía. Cada vez más común en dispositivos modernos.
+# 8 VGA (Video Graphics Array) (1987
++ Función: Salida de video analógico.
++ Uso: Conecta monitores CRT o algunos LCD más antiguos.
++ Estado actual: En desuso, reemplazado por HDMI/DisplayPort.
 
 ![pepitosjuares](/img/conector8.png)
 
-# 9 USB 3.0 Tipo A
-+ Conector azul que indica compatibilidad con USB 3.0, ofreciendo velocidades más altas que USB 2.0.
+# 9 USB 3.0 Tipo A(USB 2.0:2000)(USB 3.0:2008)(USB 3.2:2017)
++ Función: Conexión de dispositivos USB.
++ Colores:
+  + Rojo: USB 3.2 Gen 2 (alta velocidad).
+  + Azul: USB 3.0 (SuperSpeed).
 
 ![pepitosjuares](/img/conector9.png)
 
-# 10 Ethernet (RJ-45)
-+ Conector de red cableada, usado para conectarse a internet o redes locales. Soporta velocidades como 1 Gbps o más.
+# 10 Ethernet (RJ-45) (1980)
++ Función: Conexión de red cableada (LAN).
++ Velocidades típicas: 100 Mbps, 1 Gbps o 10 Gbps según la placa.
 
 ![pepitosjuares](/img/conector10.png)
 
-# 11 Audio (Jack de 3.5 mm y S/PDIF óptico)
-+ Jacks de colores para salida de audio y micrófono (verde: altavoces, rosa: micrófono, azul: entrada de línea, negro/naranja: salidas adicionales multicanal).
-+ Conector óptico (TOSLINK) para audio digital de alta calidad.
+# 11 Audio (Jack de 3.5 mm y S/PDIF óptico) (1964)
++ Función: Entrada y salida de audio analógico.
+
++ Colores comunes:
+  +Verde: salida de altavoces/frontales.
+  +Azul: entrada de línea.
+  +Rosa: micrófono.
+  +Naranja/Negro/Gris: canales adicionales (5.1 o 7.1).
+  +También puede incluir salida óptica S/PDIF (TOSLINK).
 
 ![pepitosjuares](/img/conector11.png)
-
